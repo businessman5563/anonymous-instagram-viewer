@@ -9,7 +9,7 @@ The **🕵️ Anonymous Instagram Viewer** is the most advanced tool for browsin
 
 <div align="center">
 
-[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/anonymous-instagram-viewer)
+[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/anonymous-instagram-viewer)
 
 </div>
 
@@ -110,7 +110,7 @@ You need a way to view Instagram content. Without logging in. Without being seen
 6. **🔍 Enter Username** — type Instagram username (without @)
 7. **🔎 Click Search** — view profile anonymously
 
-[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/anonymous-instagram-viewer)
+[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/anonymous-instagram-viewer)
 
 ### Viewing a Profile Anonymously
 
@@ -212,7 +212,7 @@ Browse Instagram completely anonymously. **Anonymous Instagram Viewer** lets you
 
 <div align="center">
 
-[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/anonymous-instagram-viewer)
+[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/anonymous-instagram-viewer)
 
 **Version 4.6.1** — Anonymous Instagram viewer. Free forever.
 
